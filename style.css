@@ -134,3 +134,14 @@ a {
 .design p{
     text-align: right;
 }
+.intro_text p a{
+    color: red;
+    text-decoration: none;
+    
+}
+.intro_text p a:hover{
+    color: green;
+    border: dotted;
+    background-color: yellowgreen;
+    overflow: scroll;
+}
