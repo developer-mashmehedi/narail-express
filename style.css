@@ -141,7 +141,4 @@ a {
 }
 .intro_text p a:hover{
     color: green;
-    border: dotted;
     background-color: yellowgreen;
-    overflow: scroll;
-}
