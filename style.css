@@ -1,1 +1,136 @@
-hi
+a {
+
+}
+.body{
+    background: #f6f6f6;
+}
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    height: 5px;
+}
+
+.header_area {
+    padding: 20px;
+    background: #3b5998;
+
+}
+.header_area h1{
+    width: 180px;
+    margin: 0px;
+    margin-top: -17px;
+}
+.header_area ul{
+    display: inline-flex;
+    list-style: none;
+    color: #fff;
+    float: right;
+    margin-top: 34px;
+}
+.header_area ul li{
+    width: 65px;
+    margin: 10px;
+    padding: 10px;
+    margin-top: -74px;
+    box-sizing: border-box;
+}
+.header_area ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+.intro_area {
+
+}
+.intro_img{
+    float: left;
+    width: 495px;
+    padding-right: 25px;
+}
+.intro_img img {
+
+}
+.intro_text{
+    float: left;
+    width: 450px;
+
+}
+.intro_text h1 {
+
+}
+.intro_text p {
+
+}
+.content_area_line{
+    border-top: 1px solid #e3e3e3;
+    float: left;
+    margin-top: 20px;
+    padding-top: 20px;
+    width: 100%;
+}
+.content_area {
+    
+}
+.service_area {
+    float: left;
+    width: 472px;
+    padding-right: 18px;
+}
+.service {
+    float: left;
+    width: 100%;
+    display: block;
+    background: #f1f1f1;
+    margin-bottom: 15px;
+    border: 1px;
+    border-radius: 15px;
+}
+.service img {
+    float: left;
+    padding: 20px;
+    margin-top: 24px;
+}
+.service p {
+    font-family: Verdana;
+    font-size: 12px;
+    padding: 15px;
+    line-height: 18px;
+}
+.content{
+    float: left;
+    width: 508px;
+    background: #f1f1f1;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    display: block;
+}
+.content h1{
+    margin: 21px;
+}
+.content p{
+    padding: 20px;
+}
+.footer_area{
+    background: #f1f1f1;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    width: 1000px;
+    float: inline-start;
+    margin-left: 166px;
+}
+.copyright{
+    float: left;
+    width: 50%;
+
+}
+.copyright p{
+    text-align: left;
+    margin-left: 18px;
+}
+.design{
+    float: left;
+    width: 50%;
+    margin-left: -37px;
+}
+.design p{
+    text-align: right;
+}
