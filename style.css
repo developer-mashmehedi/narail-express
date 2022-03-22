@@ -47,18 +47,22 @@ a {
     padding-right: 25px;
 }
 .intro_img img {
-
+    width: 100%;
+    border-radius: 25px;
 }
 .intro_text{
     float: left;
     width: 450px;
+    background: #f1f1f1;
+    border-radius: 15px;
 
 }
 .intro_text h1 {
-
+    margin: 10px;
 }
 .intro_text p {
-
+    margin: 10px;
+    text-align: justify;
 }
 .content_area_line{
     border-top: 1px solid #e3e3e3;
@@ -116,6 +120,7 @@ a {
     width: 1000px;
     float: inline-start;
     margin-left: 166px;
+    height: 42px;
 }
 .copyright{
     float: left;
@@ -126,6 +131,10 @@ a {
     text-align: left;
     margin-left: 18px;
 }
+.copyright p a{
+    text-decoration: none;
+    color: #d10db1;
+}
 .design{
     float: left;
     width: 50%;
@@ -133,6 +142,10 @@ a {
 }
 .design p{
     text-align: right;
+}
+.design p a{
+    text-decoration: none;
+    color: #df0c87;
 }
 .intro_text p a{
     color: red;
@@ -142,3 +155,7 @@ a {
 .intro_text p a:hover{
     color: green;
     background-color: yellowgreen;
+}
+.colorful{
+    color: rgb(218, 18, 128);
+}
