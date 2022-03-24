@@ -159,3 +159,12 @@ a {
 .colorful{
     color: rgb(218, 18, 128);
 }
+.next-page{
+    background-image: linear-gradient(45deg, lightSalmon, rgb(238, 181, 171));
+text-decoration: none;
+padding: 3px 10px 3px 10px;
+border-radius: 5px;
+color: white;
+font-weight: 700;
+border: 2px solid gray;
+}

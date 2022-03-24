@@ -1,0 +1,89 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header{
+    color: blue;
+    position: absolute;
+    border: 5px solid rgb(220, 0, 0);
+}
+h1{
+    font-size: 30px;
+}
+.h1-color{
+    color: rgb(255, 43, 177);
+}
+.h1-style{
+    color: rgb(157, 31, 129);
+}
+.h3-color{
+    color: rgb(47, 91, 186);
+}
+.link-button{
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    text-decoration: none;
+    padding: 3px 10px 3px 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+}
+.container{
+    height: 426px;
+}
+.content{
+    height: 500px;
+}
+.topper{
+    width: 55%;
+    float: left;
+    margin: 26px;
+}
+.sider{
+    width: 40%;
+    float: right;
+    margin: 7px;
+    margin-top: 38px;
+}
+.image-size{
+    width: 65%;
+    margin-left: 100px;
+}
+.img-size{
+    width: 70%;
+    margin-left: 70px;
+}
+.topper2{
+    width: 40%;
+    float: left;
+}
+.sider2{
+    width: 59%;
+    padding: 6px;
+    float: right;
+    padding-top: 50px;
+}
+.exp{
+    margin-left: 20px;
+}
+.half-width{
+    width: 43%;
+    height: 221.483px;
+    float: left;
+    margin: 35px;
+    padding: 0px 6px 0px 10px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 8px;
+
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(130, 30, 80), tomato);
+    border-image-slice: 1;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+.footer-area p{
+    text-align: center;
+}
