@@ -65,8 +65,8 @@ h1{
     margin-left: 20px;
 }
 .half-width{
-    width: 43%;
-    height: 221.483px;
+    width: 40%;
+    height: 260.483px;
     float: left;
     margin: 35px;
     padding: 0px 6px 0px 10px;
@@ -85,5 +85,4 @@ h1{
     border-image-slice: 1;
 }
 .footer-area p{
-    text-align: center;
 }
