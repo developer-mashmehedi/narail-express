@@ -309,3 +309,8 @@ top: 3;
 {
  text-decoration:underline;
 }
+.media{
+    position: relative;
+    bottom: 320px;
+    right: 190px;
+}
